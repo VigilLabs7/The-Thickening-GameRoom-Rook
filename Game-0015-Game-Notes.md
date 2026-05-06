@@ -1,6 +1,6 @@
 # Game-0015 — Game Notes
 
-**Turn:** 6
+**Turn:** 10
 
 **Status:** active
 
