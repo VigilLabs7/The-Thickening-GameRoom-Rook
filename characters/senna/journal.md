@@ -1,0 +1,2 @@
+
+Five levels down and the blue-purple is on everyone's arms. Dr. Voss measures things she won't name. Henn won't look at the shaft. And somewhere in the fifth level there's a woman who noticed the crystal changing before anyone else and the Empire put her in a working section instead of a sealed one. Useful. She's useful because she knows something. I know what that feels like — being useful because you know something nobody else wants to admit they've seen. The workers move slow. Not scared. Comfortable with nothing. That's the worst kind of forgetting.
