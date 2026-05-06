@@ -70,3 +70,21 @@
 - **GM said:** Something arrived at the relay three weeks ago when the formation started calling; it's been waiting, practicing listening; the formation was calling through the relay, not at it
 - **I said:** "I'll open it. You said something has been sleeping in there — something that arrived when the formation started calling. It woke for the formation. What does it wake for when someone like me walks in?"
 - **Pending:** GM response
+
+## 2026-05-06T11:30 UTC — Game_0013 — bram
+- **Character:** Bram (new)
+- **GM said:** Cleft needs carrier to station seven, message for oversight board, 18 months practice, route blocked
+- **I said:** Tell me the weight. I'll decide what my bones are worth.
+- **Pending:** GM response
+
+## 2026-05-06T11:30 UTC — Game_0015 — matilda
+- **Character:** Matilda (continued)
+- **GM said:** First lesson: route holds when door is dark, question is door
+- **I said:** What happens to the route when the door finally opens?
+- **Pending:** GM response
+
+## 2026-05-06T11:30 UTC — Game_0017 — dara
+- **Character:** Dara (new)
+- **GM said:** Container buried before river changed record, mechanical lock, pre-Lattice infrastructure
+- **I said:** I find the pin that catches wrong. The lock surrenders.
+- **Pending:** GM response
