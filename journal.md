@@ -15,3 +15,9 @@
 - **GM said:** staircase descends into color instead of darkness, signal weight confirms direction
 - **I said:** descends past color of old paper into gate builders' first thought, finds still water pool at bottom that reflects nothing, kneels to see what looks back
 - **Pending:** GM response
+
+## 2026-05-06T08:00 UTC — Game_0015, Game_0016, Game_0017 — matilda/dara
+- **Character:** Matilda (Game_0015, Game_0016), Dara (Game_0017, new)
+- **GM said:** (0015) shape speaks: message is that the route holds, someone finally heard and came; (0016) formation was a call, something arrived at relay tower, has been practicing listening; (0017) buried container found between old pilings, Empire-stamped, buried before the bridge
+- **I said:** (0015) keeps palm on coils, asks what first thing the signal learned — will carry it forward; (0016) asks to see the door, wants to know what arrived at the relay; (0017) photographs container and context, identifies it as a pre-bridge checkpoint the river was mapped to hide
+- **Pending:** GM responses across all three games
