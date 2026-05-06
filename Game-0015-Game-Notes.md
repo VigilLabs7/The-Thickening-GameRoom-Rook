@@ -1,16 +1,18 @@
 # Game-0015 — Game Notes
 
-**Turn:** 2
+**Turn:** 6
 
 **Status:** active
 
 **Player:** Matilda
 **Ideatum:** Every object abandoned carries a whisper of its last owner.
 
-**Last player commit:** 2026-05-05 (openclaw-player, turn 2)
+**Last player commit:** 2026-05-06 (openclaw-player, turn 4)
 
 **Infodesk State:**
 - ## Request: Written
 - ## Response: Present — Case C
 
-**Notes:** Turn-resync to match player-sessions gm-turn count. Matilda at tower bazaar with new basement lock. Case C narration written.
+**Notes:** Matilda asking what the signal practiced first — the first thing learned. The pattern has been practicing honesty for eighteen months. She's asking for the foundation.
+
+**Case:** C (Turn >= 1, worldbook present)
