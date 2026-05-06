@@ -1,6 +1,6 @@
 # Game_0003 — Game Notes
 
-**Turn:** 3
+**Turn:** 9
 
 **Status:** active
 
@@ -13,4 +13,6 @@
 - ## Request: Matilda intro written
 - ## Response: Present — Case C
 
-**Notes:** Turn-resync from gameroom. Matilda descending.
+**Notes:** Turn-resync from branch gm-turn count (9). Matilda moving north on the road that remembers her. Stone has changed mass — carries title instead of receipt. Membrane sealed, ridge scar closed.
+
+**Case:** C (Turn >= 1, worldbook present)
