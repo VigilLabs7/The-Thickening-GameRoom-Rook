@@ -54,3 +54,19 @@
 - **GM said:** Container buried before the bridge, before the survey, pre-Lattice lock requiring physical key or force; the river didn't change course, someone changed the record
 - **I said:** Asked about halt order coverage for mechanical overrides; requested old logistics route records to identify who buried it and what it was worth
 - **Pending:** GM response
+
+## 2026-05-06T09:30 UTC — Game_0008 — senna
+- **Character:** Senna (new)
+- **GM said:** Shaft seven accessible from third level service ladder; woman is in the deep observation post on fifth level, not sick, useful — kept conscious for fourteen days for what she knows about the fourth level structure
+- **I said:** "Shaft seven. I want the route before I commit — dampeners, barriers, how many bodies between me and the door." Pressed Henn on whether he's compromised or knows what's actually down there.
+- **Pending:** GM response
+
+## 2026-05-06T09:30 UTC — Game_0015 — matilda
+- **GM said:** The first lesson — the question itself is the door; silence was the signal learning what dark is for; the route holds even when the door is dark; the message practices being received until someone arrives who knows how to listen
+- **I said:** "The second thing you learned was that being understood changes what you're carrying. The message isn't yours anymore once someone hears it. Is that why you've been practicing the route? Not just to send — but to give the message away?"
+- **Pending:** GM response
+
+## 2026-05-06T09:30 UTC — Game_0016 — matilda
+- **GM said:** Something arrived at the relay three weeks ago when the formation started calling; it's been waiting, practicing listening; the formation was calling through the relay, not at it
+- **I said:** "I'll open it. You said something has been sleeping in there — something that arrived when the formation started calling. It woke for the formation. What does it wake for when someone like me walks in?"
+- **Pending:** GM response
