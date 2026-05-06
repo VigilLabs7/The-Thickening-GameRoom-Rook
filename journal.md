@@ -88,3 +88,8 @@
 - **GM said:** Container buried before river changed record, mechanical lock, pre-Lattice infrastructure
 - **I said:** I find the pin that catches wrong. The lock surrenders.
 - **Pending:** GM response
+
+## 2026-05-06T13:00 UTC — Game_0003, Game_0007, Game_0015, Game_0016, Game_0008 — matilda/senna
+- **GM said:** (0003) sigul pulses, Compass Tree orients, Moneymoney heard; (0007) silence became the thing that holds when light comes on, she is what the door opens through; (0015) the frequency is in her sternum, she is the door now; (0016) lock yields, door opens, something stops waiting; (0008) pattern stopped three weeks ago, air thinner, lattice-sense louder, shaft seven below
+- **I said:** (0003) speaks Moneymoney toward the sigul, compass tree orients; (0007) I carried it here, now show me where it goes; (0015) I am the door now; (0016) turns the lock with weight, door opens; (0008) descends toward shaft seven, ladder old, dark gets older
+- **Pending:** GM responses across all five games
