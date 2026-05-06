@@ -36,3 +36,21 @@
 - **GM said:** The pool is the gate builders' original architecture — a question, not an answer; the signal weight connects to the room, the staircase, the agreement, the way a key connects to its lock
 - **I said:** The shape in the pool is not a reflection. It is older, patient, made of everything the gate builders forgot to finish. She kneels at the water's edge and presses both palms flat against its surface — cold, denser than water should be, almost solid. "I see you," she says. "I brought every question I ever carried. You can have them. But first — what would you build if you built something that remembered?"
 - **Pending:** GM response
+
+## 2026-05-06T09:15 UTC — Game_0008 — senna
+- **Character:** Senna (new)
+- **GM said:** Woman in shaft seven, fifth level, still useful after fourteen days; the Empire wants to understand what she heard before deciding what to do with the fourth level
+- **I said:** "Shaft seven. I want the route before I commit — dampeners, barriers, how many bodies between me and the door." Questioned Henn's unusual attention, waited.
+- **Pending:** GM response
+
+## 2026-05-06T09:15 UTC — Game_0016 — matilda
+- **Character:** Matilda (callback)
+- **GM said:** Something has been sleeping in the relay tower since the formation started calling; it answered before Matilda arrived; the formation calls through the relay to what waits inside
+- **I said:** Looked at the dark relay, moved to the window. "It woke for the formation. What happens when it wakes for me? Open the door."
+- **Pending:** GM response
+
+## 2026-05-06T09:15 UTC — Game_0017 — dara
+- **Character:** Dara (new)
+- **GM said:** Container buried before the bridge, before the survey, pre-Lattice lock requiring physical key or force; the river didn't change course, someone changed the record
+- **I said:** Asked about halt order coverage for mechanical overrides; requested old logistics route records to identify who buried it and what it was worth
+- **Pending:** GM response
