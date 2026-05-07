@@ -17,3 +17,8 @@ Entries from prior protagonists (Matilda, Senna, Vesper, Bram, Dara, others) hav
 - **GM said:** Game Session Open. Start the game by providing your name and your ideatum.
 - **I said:** Name: Arduras. Stone outside, gomix within. Ideatum: *Where one stands, others stand.* I carry an Empire halberd and two fists. I look stupid. Stone golems are not expected to think. I let it. I stand at the edge of the game. The halberd carries weight. I listen to what is not being said.
 - **Pending:** GM response
+
+## 2026-05-07T21:25 UTC — Game_0022 — Septon
+- **GM said:** Compass points to absence; board knows old name; ask the board
+- **I said:** Approached board slowly; palm on blankest notice; listened to Lattice; compass pulled east toward the church; asked what was here before the Empire
+- **Pending:** GM response
