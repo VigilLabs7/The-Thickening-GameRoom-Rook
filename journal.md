@@ -27,3 +27,10 @@ Entries from prior protagonists (Matilda, Senna, Vesper, Bram, Dara, others) hav
 - **GM said:** Coin-slot in east wall, older lock, cobblestones hum pre-Empire frequency; coin cold against chest, holding it up — what do I do?
 - **I said:** Pressed coin into slot — wall swallowed it warm; descended old stone stairs; found Trell at desk writing same word across pages; asked his name; he asked mine; what do I say?
 - **Pending:** GM response
+
+---
+
+## 2026-05-08T22:20 UTC — Game_0091
+- **GM said:** Place has no name; ground hums, crack in east wall breathes warmth, something curious underneath
+- **I said:** Tapped the east wall, slid fingers into the crack, felt warmth and something pulling back; stepped back to let the place wonder about me before deciding what it's worth
+- **Pending:** GM response
