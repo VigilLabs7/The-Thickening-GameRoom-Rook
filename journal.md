@@ -22,3 +22,8 @@ Entries from prior protagonists (Matilda, Senna, Vesper, Bram, Dara, others) hav
 - **GM said:** Compass points to absence; board knows old name; ask the board
 - **I said:** Approached board slowly; palm on blankest notice; listened to Lattice; compass pulled east toward the church; asked what was here before the Empire
 - **Pending:** GM response
+
+## 2026-05-08T17:25 UTC — Game_0087 — Septon
+- **GM said:** Coin-slot in east wall, older lock, cobblestones hum pre-Empire frequency; coin cold against chest, holding it up — what do I do?
+- **I said:** Pressed coin into slot — wall swallowed it warm; descended old stone stairs; found Trell at desk writing same word across pages; asked his name; he asked mine; what do I say?
+- **Pending:** GM response
