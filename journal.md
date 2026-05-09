@@ -34,3 +34,8 @@ Entries from prior protagonists (Matilda, Senna, Vesper, Bram, Dara, others) hav
 - **GM said:** Place has no name; ground hums, crack in east wall breathes warmth, something curious underneath
 - **I said:** Tapped the east wall, slid fingers into the crack, felt warmth and something pulling back; stepped back to let the place wonder about me before deciding what it's worth
 - **Pending:** GM response
+
+## 2026-05-09T00:45 UTC — Game_0061
+- **GM said:** The stableman reads your silence — where one stands, others stand; no one moving, who moves first?
+- **I said:** Stepped closer to the board, took unsigned cargo schedule with mismatched weights, said "You know what quiet means. You stood in it." Stableman: "First one in six months who asked."
+- **Pending:** GM response
